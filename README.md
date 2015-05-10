@@ -1,4 +1,4 @@
-simple-ajax-search
+ajax-search
 ==================
 
 -A django based ajax search, without reloading the template.<br>
@@ -16,5 +16,5 @@ Feel free to fork, modify and maybe raise any issue..<br>
 
 
 Regards,<br>
-Benarito.<br>
+Urosevich Bob.<br>
 
